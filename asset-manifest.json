@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eShopElegance1/static/css/main.9167ba90.css",
+    "main.js": "/eShopElegance1/static/js/main.42c7610c.js",
+    "index.html": "/eShopElegance1/index.html",
+    "main.9167ba90.css.map": "/eShopElegance1/static/css/main.9167ba90.css.map",
+    "main.42c7610c.js.map": "/eShopElegance1/static/js/main.42c7610c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9167ba90.css",
+    "static/js/main.42c7610c.js"
+  ]
+}
